@@ -16,7 +16,7 @@
 |------|------|
 | [subscription-checkup](https://github.com/rick-2023/subscription-checkup) | **订阅体检**：本地解析支付宝/微信账单，揪出自动续费（支付宝·智能体涌现奖参赛） |
 | [dsh-yuque-notes](https://github.com/rick-2023/dsh-yuque-notes) | **语雀小记插件**：DeepSeek Harness 一键把对话内容发到语雀小记（支持选区快捷记录，无需 Token） |
-| [skill-sync-manager](https://github.com/rick-2023/skill-sync-manager) | **技能同步插件**：将 Codex、Cursor 的技能导入 DeepSeek Harness，支持查看来源、管理和检查更新 |
+| [dsh-skill-sync-manager](https://github.com/rick-2023/dsh-skill-sync-manager) | **技能同步插件**：将 Codex、Cursor 的技能导入 DeepSeek Harness，支持查看来源、管理和检查更新 |
 | [mcd-family-meal-planner](https://github.com/rick-2023/mcd-family-meal-planner) | 麦麦家庭点餐助手 Skill |
 | [database-compare-tool](https://github.com/rick-2023/database-compare-tool) | 数据库对比 IDEA 插件 |
 | [easy-code-stat](https://github.com/rick-2023/easy-code-stat) | 代码统计 IDEA 插件 |
