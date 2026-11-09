@@ -2,7 +2,7 @@
 
 积累，从抓住每一个细节开始。
 
-在杭州写代码。常年泡在 **Java** 与 **IntelliJ** 生态里，做过数据库对比、代码统计等 IDEA 插件；最近也在做 DeepSeek Harness 插件，把对话里的灵感一键沉淀到语雀小记，并随手折腾一点前端小工具。
+在杭州写代码。常年泡在 **Java** 与 **IntelliJ** 生态里，做过数据库对比、代码统计等 IDEA 插件；最近也在做 DeepSeek Harness 插件，把对话里的灵感一键沉淀到语雀小记，也让 Codex、Cursor 的技能在 Harness 里更方便地管理，并随手折腾一点前端小工具。
 
 ### 现在在关注
 - IDEA 插件与日常效率工具
@@ -16,6 +16,7 @@
 |------|------|
 | [subscription-checkup](https://github.com/rick-2023/subscription-checkup) | **订阅体检**：本地解析支付宝/微信账单，揪出自动续费（支付宝·智能体涌现奖参赛） |
 | [dsh-yuque-notes](https://github.com/rick-2023/dsh-yuque-notes) | **语雀小记插件**：DeepSeek Harness 一键把对话内容发到语雀小记（支持选区快捷记录，无需 Token） |
+| [skill-sync-manager](https://github.com/rick-2023/skill-sync-manager) | **技能同步插件**：将 Codex、Cursor 的技能导入 DeepSeek Harness，支持查看来源、管理和检查更新 |
 | [mcd-family-meal-planner](https://github.com/rick-2023/mcd-family-meal-planner) | 麦麦家庭点餐助手 Skill |
 | [database-compare-tool](https://github.com/rick-2023/database-compare-tool) | 数据库对比 IDEA 插件 |
 | [easy-code-stat](https://github.com/rick-2023/easy-code-stat) | 代码统计 IDEA 插件 |
